@@ -1,0 +1,17 @@
+# Ignore documentation and scripts
+docs/
+Docs/
+scripts/
+Scripts/
+script/
+Script/
+
+**/.env
+**/.env.local
+**/node_modules/
+**/.next/
+**/coverage/
+backend/server.exe
+*.log
+*.tsbuildinfo
+
